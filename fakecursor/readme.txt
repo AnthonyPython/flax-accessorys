@@ -1,0 +1,1 @@
+This is a singleton instance fake cursor you can use for your game. Just hide the real cursor when you need to.
